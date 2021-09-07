@@ -1,6 +1,5 @@
-package org.jingjing;
+package com.jingjing;
 
-import org.jingjing.window.MainWindow;
 
 public class MainApplication {
     public static void main(String[] args){

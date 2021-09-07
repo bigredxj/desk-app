@@ -1,4 +1,4 @@
-package org.jingjing.util;
+package com.jingjing.util;
 
 import java.awt.*;
 import java.awt.datatransfer.Clipboard;

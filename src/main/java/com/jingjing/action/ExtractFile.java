@@ -1,8 +1,8 @@
-package org.jingjing.action;
+package com.jingjing.action;
 
 import cn.hutool.core.util.StrUtil;
+import com.jingjing.util.CommonUtil;
 import lombok.extern.slf4j.Slf4j;
-import org.jingjing.util.CommonUtil;
 
 import java.io.File;
 

@@ -1,4 +1,4 @@
-package org.jingjing.mouse;
+package com.jingjing.mouse;
 
 public class MouseShape {
 

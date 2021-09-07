@@ -1,19 +1,16 @@
-package org.jingjing.window;
+package com.jingjing.window;
 
-import org.jingjing.AutoHiddenFrame;
+import com.jingjing.AutoHiddenFrame;
 
 import java.awt.Container;
 import java.awt.MouseInfo;
 import java.awt.Point;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowFocusListener;
 
 import javax.swing.SwingUtilities;
-import javax.swing.Timer;
 
 public class WindowMouseListener extends MouseAdapter implements WindowFocusListener {
 

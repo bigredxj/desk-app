@@ -1,4 +1,4 @@
-package org.jingjing.window;
+package com.jingjing.window;
 
 import java.awt.Point;
 import java.awt.event.ComponentListener;

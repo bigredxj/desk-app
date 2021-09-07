@@ -1,6 +1,6 @@
-package org.jingjing.window;
+package com.jingjing.window;
 
-import org.jingjing.AutoHiddenFrame;
+import com.jingjing.AutoHiddenFrame;
 
 import java.awt.Dimension;
 import java.awt.Point;
@@ -11,7 +11,7 @@ import java.awt.event.ComponentEvent;
 public class WindowLocationListener extends ComponentAdapter {
     public static final int HIDDEN_BOUND = 3; // 当窗体进入到屏幕边缘3像素以内就可以隐藏
 
-    public static final int VISIBLE_BOUND = 5; // 当窗体隐藏后要有5像素的部分露出来,不能完全隐藏
+    public static final int VISIBLE_BOUND = 10; // 当窗体隐藏后要有5像素的部分露出来,不能完全隐藏
     public static final int VISIBLE_HIDEN_BOUND = 0;
 
     AutoHiddenFrame frame;

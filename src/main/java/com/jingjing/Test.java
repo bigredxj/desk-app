@@ -1,4 +1,4 @@
-package org.jingjing;
+package com.jingjing;
 
 public class Test {
     public static void main(String[] args){

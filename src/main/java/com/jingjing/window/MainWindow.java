@@ -1,8 +1,8 @@
-package org.jingjing.window;
+package com.jingjing.window;
 
 
-import org.jingjing.action.Ping;
-import org.jingjing.action.search.Baidu;
+import com.jingjing.action.Ping;
+import com.jingjing.action.search.Baidu;
 
 import javax.swing.*;
 import java.awt.*;

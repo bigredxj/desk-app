@@ -1,8 +1,8 @@
-package org.jingjing.action;
+package com.jingjing.action;
 
 
+import com.jingjing.util.CommonUtil;
 import lombok.extern.slf4j.Slf4j;
-import org.jingjing.util.CommonUtil;
 
 @Slf4j
 public class Ping {

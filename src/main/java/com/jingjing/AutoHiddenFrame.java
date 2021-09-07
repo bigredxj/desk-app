@@ -1,12 +1,12 @@
-package org.jingjing;
+package com.jingjing;
 
-import org.jingjing.action.ExtractFile;
-import org.jingjing.action.Ping;
-import org.jingjing.action.search.Baidu;
-import org.jingjing.action.search.CSDN;
-import org.jingjing.window.WindowLocationListener;
-import org.jingjing.window.WindowMouseListener;
-import org.jingjing.window.WindowMover;
+import com.jingjing.action.search.Baidu;
+import com.jingjing.action.ExtractFile;
+import com.jingjing.action.Ping;
+import com.jingjing.action.search.CSDN;
+import com.jingjing.window.WindowLocationListener;
+import com.jingjing.window.WindowMouseListener;
+import com.jingjing.window.WindowMover;
 
 import javax.swing.*;
 import java.awt.*;
@@ -33,11 +33,11 @@ public class AutoHiddenFrame extends JFrame {
         setContentPane(jPanel);	//替换掉原来的ContentPane,换上一个带有Insets的,至于为什么去看WindowMouseListener类
         //infoLabel = new JLabel();
         //add(infoLabel,BorderLayout.SOUTH);
-        setSize(600,400);
+        setSize(300,200);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
 
-        Font font=new Font("宋体",Font.BOLD,30);
+        Font font=new Font("宋体",Font.PLAIN,15);
 
         JButton searchButton = new JButton("百度");
         jPanel.add(searchButton);
@@ -84,7 +84,10 @@ public class AutoHiddenFrame extends JFrame {
         });
 
 
-        jPanel.add(new JButton("ping3"));
+        JButton javaTest = new JButton("JavaTest");
+        extractFileButton.setFont(font);
+
+
         jPanel.add(new JButton("ping4"));
         jPanel.add(new JButton("ping5"));
         jPanel.add(new JButton("ping6"));
