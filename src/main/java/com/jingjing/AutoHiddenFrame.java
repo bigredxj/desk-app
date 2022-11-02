@@ -33,7 +33,7 @@ public class AutoHiddenFrame extends JFrame {
         setContentPane(jPanel);	//替换掉原来的ContentPane,换上一个带有Insets的,至于为什么去看WindowMouseListener类
         //infoLabel = new JLabel();
         //add(infoLabel,BorderLayout.SOUTH);
-        setSize(300,200);
+        setSize(600,400);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
 

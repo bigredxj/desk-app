@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dubbo_example/people-center/people-center-provider/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dubbo_example/people-center/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/salary-center-fp/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/salary-center-fp/salary-center-fp-provider/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/ads/service/impl/attendance/DutyAllDetailDsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/ads/service/impl/attendance/DutyDetailDsInfoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/ads/service/impl/attendance/DutyDetailMsInfoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/ads/service/impl/attendance/DutyDsInfoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/ads/service/impl/attendance/DutyDualDetailDsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/ads/service/impl/attendance/DutyListDsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/ads/service/impl/attendance/DutySingularDetailDsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/ads/service/impl/outage/DutyOutageAgentMsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/fp/service/impl/apply/DutyApplyServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/fp/service/impl/duty/DutyApplyLeaveServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/fp/service/impl/duty/DutyApplyOverTimeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/main/java/com/t3/ts/vigen/center/fp/service/impl/roster/DutyRosterCoverdriverServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../t3_driver/vigen-center-fp/vigen-center-fp-provider/src/test/java/com/t3/ts/vigen/center/ads/mapper/DutyDetailMsMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
